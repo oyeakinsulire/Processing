@@ -1,4 +1,4 @@
-#Week 7 - Algorithmic Music and Sampling
+#  Week 7 - Algorithmic Music and Sampling
 This project explores the creation of music through algorithms and the use of sampling techniques within Processing.
 
 Requirements
