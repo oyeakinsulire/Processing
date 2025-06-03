@@ -8,7 +8,8 @@ Operation
 Run the main .pde file within the Week 2- CheckerBoard_Creators directory in Processing.
 
 Screengrab
-Include an image or video of your work here, such as a screengrab or screen recording.
+https://github.com/oyeakinsulire/Processing/blob/main/Week%202-%20CheckerBoard_Creators/pic-0128.png?raw=true![Uploading image.png…]()
+
 
 Design notes
 The goal was to create a flexible checkerboard generator. Considerations included handling different grid sizes and ensuring clean, aliasing-free lines.
