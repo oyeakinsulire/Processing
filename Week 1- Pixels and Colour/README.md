@@ -8,7 +8,8 @@ Operation
 Run the main .pde file within the Week 1- Pixels and Colour directory in Processing.
 
 Screengrab
-[image](https://github.com/user-attachments/assets/27801a65-ea0a-49f6-aae2-6f6e9a4d569d)
+![image](https://github.com/user-attachments/assets/77e67da5-de3b-4e5e-ad56-efee25de3338)
+
 
 
 Design notes
