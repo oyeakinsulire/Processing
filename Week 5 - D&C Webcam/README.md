@@ -9,6 +9,7 @@ Operation
 Run the main .pde file within the Week 5 - D&C Webcam directory in Processing. Allow camera access if prompted.
 
 Screengrab
+
 ![image](https://github.com/user-attachments/assets/3c10aa3d-a093-483d-bbc5-fd8844337ff6)
 
 Design notes
