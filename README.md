@@ -1,4 +1,6 @@
-#Processing Portfolio
+# Processing Portfolio
+
+
 This repository showcases a collection of interactive sketches and projects developed using Processing. Each week's work is organized into a dedicated directory, demonstrating various concepts and techniques in creative coding.
 
 Repository Structure
